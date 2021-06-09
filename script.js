@@ -1,4 +1,3 @@
-/*
 // Recordar!! variables sin acentos ni Ñ ni caracteres raros ☻ | Notacion camello si.
 //EJERCICIO Nº1
 
@@ -59,7 +58,7 @@ if (palabra == false) {
 
 //EJERCICIO Nº9
 let palabra = prompt("ingrese una palabra");
-console.log(palabra.slice(1, palabra.length));*/
+console.log(palabra.slice(1, palabra.length));
 
 
 
